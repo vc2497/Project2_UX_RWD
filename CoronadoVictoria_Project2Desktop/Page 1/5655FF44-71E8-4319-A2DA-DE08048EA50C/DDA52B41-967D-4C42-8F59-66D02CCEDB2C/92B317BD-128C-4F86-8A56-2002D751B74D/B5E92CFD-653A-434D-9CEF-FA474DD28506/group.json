@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B5E92CFD-653A-434D-9CEF-FA474DD28506",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "85F50AC6-A79D-4B2C-9E97-AB694292E0C4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "10C537AB-ABA4-42E0-9B44-12203F74FC99",
+    "height": 12,
+    "width": 113,
+    "x": 0,
+    "y": 41.2631578947368
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "02C85246-F6DB-497D-AAEA-B4DA3D127CCE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "41BC8222-F4A0-4775-94B4-448C76CBDB32"
+    },
+    {
+      "class": "shapePath",
+      "id": "F410CF93-9241-41DB-877A-CCD7B0AE5B3A"
+    },
+    {
+      "class": "shapePath",
+      "id": "F211EA10-A685-4F8E-ACA7-FAC5E86065D1"
+    },
+    {
+      "class": "shapePath",
+      "id": "E28A9AFD-314D-4C11-9A2B-3977544562E8"
+    },
+    {
+      "class": "shapePath",
+      "id": "4CB64395-A1BA-4940-9615-1885BA09F9B3"
+    },
+    {
+      "class": "shapePath",
+      "id": "C5FAEE08-DC7C-4CC8-A288-D7C540532C17"
+    },
+    {
+      "class": "shapePath",
+      "id": "539EFCDE-7FAE-4A05-A707-03F7BC0DB553"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EAB068CC-07A8-48D1-BF0A-8E626EC641E8"
+    },
+    {
+      "class": "shapePath",
+      "id": "5BA015C1-0F01-4396-A981-3B51055F88D5"
+    }
+  ],
+  "name": "washington",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F48FA2EA-CBF5-44AA-BBCB-3E3AFEB07079",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8786A5E9-9A72-417E-8200-EC5D67043373",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3C650425-AAC0-433A-94CF-17B655646FE8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A7C51088-F5FC-4691-804B-F037A8F72844",
+    "height": 90,
+    "width": 246,
+    "x": 60,
+    "y": 2085
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/OverlayText",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8E98AA35-115F-44F7-BD45-2EB267143CEA",
+      "overrideName": "8AD1E96C-D805-4577-B276-3EB9E74D47EF_stringValue",
+      "value": "STUDENT WORK"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4B46B2E6-26E2-44D5-B2E5-89457C002B20",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A63CDDFF-54DC-4D1C-99D1-DAA14F7D4D07",
+  "verticalSpacing": 0
+}

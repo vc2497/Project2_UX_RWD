@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DDC1720A-8311-40AB-9921-FD5351811DF1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E411B054-F3C2-405C-8FC9-FC98D614BE59",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "943A6AF7-B773-4DD8-88D3-9768DFE05B1D",
+    "height": 49,
+    "width": 138,
+    "x": 720,
+    "y": 9
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/NavButton Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "27E43886-A91E-45CB-A77B-32345C7A3447",
+      "overrideName": "4FD04DB3-1E12-4B45-8919-DBD31BFD98E3_stringValue",
+      "value": "ACADEMICS"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6876F3DD-644C-4262-9667-65B0518D3D6B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A0329C32-0DA7-4403-9B77-5F6DA1D7521E",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "73597D0A-4704-4EE4-88D8-7CDD69945C82",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7CF56AB3-0363-4FDC-A855-3C9D995C2301",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "018A86AF-BAA4-49A1-8E60-AD6CE3D5BEB8",
+    "height": 12,
+    "width": 113,
+    "x": 0,
+    "y": 41.2631578947368
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "FB758013-9DF5-4607-BB9F-DB06E6AF3EBB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A77A45CC-785C-4D45-A278-C0DE2DC737AE"
+    },
+    {
+      "class": "shapePath",
+      "id": "39B18F46-7906-4E46-BBD0-33BFD71471EA"
+    },
+    {
+      "class": "shapePath",
+      "id": "927ECE50-DE22-429F-8681-497B31089539"
+    },
+    {
+      "class": "shapePath",
+      "id": "685C6AB7-ED40-4DF9-B86E-44D5D11CD274"
+    },
+    {
+      "class": "shapePath",
+      "id": "C09CBDD0-2ABB-4053-B11C-03F8AED3233D"
+    },
+    {
+      "class": "shapePath",
+      "id": "DFE06946-86BA-4926-911A-977E9B17EC95"
+    },
+    {
+      "class": "shapePath",
+      "id": "3AFF8F33-611C-4166-B153-892BA9C9446C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "350BD7B5-D836-4E07-97B5-651861E1166D"
+    },
+    {
+      "class": "shapePath",
+      "id": "1F0F3854-1E62-487F-BEF0-B657F511F192"
+    }
+  ],
+  "name": "washington",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "91F0663E-1F02-4DF4-BC4F-DE4856917E86",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

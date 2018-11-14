@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D076901B-3DD0-4C19-8135-69F1A8DFF60B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6B9D6EE6-DD64-436C-8508-F29F19415C6E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "17238F9B-E2D7-4404-96E3-121DF6EAE511",
+    "height": 12,
+    "width": 113,
+    "x": 0,
+    "y": 41.2631578947368
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "820F9894-3561-41D9-ABA9-E5D68D7DEBD2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0D813738-87C2-4441-9403-E14A729C47DA"
+    },
+    {
+      "class": "shapePath",
+      "id": "229C1DC6-0AF9-4BBA-A40E-29C290758EDD"
+    },
+    {
+      "class": "shapePath",
+      "id": "9A769E4A-34D4-4D1A-BEAF-696098DD9D94"
+    },
+    {
+      "class": "shapePath",
+      "id": "795B6C6F-DEF3-43E0-8FE8-FA5A645AC6CA"
+    },
+    {
+      "class": "shapePath",
+      "id": "52CA28AB-FB2F-40CD-B8A2-FF68F94CF1DE"
+    },
+    {
+      "class": "shapePath",
+      "id": "9A65A939-EDEB-42CA-A95A-C45ADC0E3835"
+    },
+    {
+      "class": "shapePath",
+      "id": "45BA29F3-61A4-43F1-8A42-F354AF89CDE9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B245593C-D020-4A09-9971-A5460C17B8BD"
+    },
+    {
+      "class": "shapePath",
+      "id": "651CFE65-9D2C-4595-A372-0421BD09ECD5"
+    }
+  ],
+  "name": "washington",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "11189703-C228-4CD1-B231-28F840CEE25E",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9CF6D7F9-7003-4B06-814E-510E5A51504A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EA7D3547-2F09-42B4-954B-17AEE1156282",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1E7BAF2D-1ABB-4E35-9FE9-E198F424B028",
+    "height": 12,
+    "width": 108,
+    "x": 118.0905923344947,
+    "y": 42.10526315789472
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "AF5B3ACF-5981-49B5-BD54-68503D421C7B"
+    },
+    {
+      "class": "shapePath",
+      "id": "653B2DF4-C601-43B4-83D6-3C7A60EB56AC"
+    },
+    {
+      "class": "shapePath",
+      "id": "B3AA9CB5-E173-4832-8948-C20CBAAFA4F4"
+    },
+    {
+      "class": "shapePath",
+      "id": "11FFB1EE-A6C1-470A-B1AD-E6B6EA801E8F"
+    },
+    {
+      "class": "shapePath",
+      "id": "571257FD-76ED-46B8-B274-08E7E2BB5986"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AE5C782C-4D8D-4371-A0BD-E91D9738965D"
+    },
+    {
+      "class": "shapePath",
+      "id": "9675B9F5-ECD1-41AE-AE30-595778C0FB65"
+    },
+    {
+      "class": "shapePath",
+      "id": "DEDE5D82-52B4-4221-B5BF-5702A9D9C276"
+    },
+    {
+      "class": "shapePath",
+      "id": "74B33676-067E-46A1-834C-B384371D9D07"
+    },
+    {
+      "class": "shapePath",
+      "id": "759CE74F-4EEC-4645-A5E6-2B7B5147AC6D"
+    }
+  ],
+  "name": "university",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0E43F38F-D1F4-491E-BABA-E30D5519227B",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

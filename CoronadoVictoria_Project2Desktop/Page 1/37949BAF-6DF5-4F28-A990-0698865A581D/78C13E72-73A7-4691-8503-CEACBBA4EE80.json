@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "78C13E72-73A7-4691-8503-CEACBBA4EE80",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "41514300-2BA0-4C43-A588-AFC830D6801D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "61515C89-9022-4F4E-A5EE-06A8FDED1596",
+    "height": 90,
+    "width": 279,
+    "x": 64,
+    "y": 1697
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/DegreeButton Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B7D1C5AA-4C1A-4AF5-A4C7-9133C9D7DF05",
+      "overrideName": "5B25FBEF-D8F1-48EA-98CE-7C190513B4C6_stringValue",
+      "value": "BFA VCD"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "910D1B46-7F32-42E0-85D0-B2B43CA641A6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "57AE330E-4C7F-418D-A956-293965389370",
+  "verticalSpacing": 0
+}

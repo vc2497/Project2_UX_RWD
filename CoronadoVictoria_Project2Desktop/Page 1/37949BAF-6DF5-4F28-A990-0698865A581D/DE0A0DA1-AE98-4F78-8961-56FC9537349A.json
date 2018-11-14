@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DE0A0DA1-AE98-4F78-8961-56FC9537349A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5A42932E-B98D-45AD-8324-942B0D97E038",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B59FB5F2-0F2A-44AA-84FA-5520FBD64A0C",
+    "height": 90,
+    "width": 279,
+    "x": 407,
+    "y": 1697
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/DegreeButton Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B7D1C5AA-4C1A-4AF5-A4C7-9133C9D7DF05",
+      "overrideName": "5B25FBEF-D8F1-48EA-98CE-7C190513B4C6_stringValue",
+      "value": "UX CERTIFICATE"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "66B2446B-8B6D-4A99-8CA1-B0B40CB12516",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "57AE330E-4C7F-418D-A956-293965389370",
+  "verticalSpacing": 0
+}

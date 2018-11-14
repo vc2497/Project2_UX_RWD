@@ -1,0 +1,81 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3979D882-68EB-4753-8123-19318F0C6E4D",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "02BFEDFC-CAE2-43DD-8A0F-91BC9CCA49B2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4B9F1F4E-50FF-4A61-BB3E-8C02E5C4FC46",
+    "height": 2.17794715895569,
+    "width": 3.759898970692115,
+    "x": 2.904771287860728,
+    "y": 2.516598684857457
+  },
+  "hasClippingMask": false,
+  "isClosed": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.24037858844177012, 1.0497396224254125}",
+      "curveMode": 4,
+      "curveTo": "{0, 0.9960632522878764}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0, 0.9960632522878764}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.72671430362291589, -0.20597400013519304}",
+      "curveMode": 4,
+      "curveTo": "{0.78143412310392368, 0.54500543388759637}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{1, 0.063093497616287575}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0.9960632522878764}",
+      "curveMode": 4,
+      "curveTo": "{0.035978438009276546, 0.43853423983741058}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0, 0.9960632522878764}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DE31F9A9-D026-4FA9-AD15-A17389A48A29",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

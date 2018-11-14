@@ -1,0 +1,76 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7ACC51C8-E07C-4B4B-A59D-946C34CF1E3D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF2A99D4-4391-4CEF-B66F-6ECB71F3B074",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "06562F24-5DD1-4D03-8878-4B0A89C8B9E7",
+    "height": 35.45263157894737,
+    "width": 36.88735191637632,
+    "x": 30.7274912891986,
+    "y": 0.05894736842104682
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "7A821D38-D452-43F9-BD8D-9A71AC32BEBB"
+    },
+    {
+      "class": "shapePath",
+      "id": "5FB692BC-31DD-438E-AEBB-C03A83A2C1E4"
+    }
+  ],
+  "name": "A-3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C2083CBB-56D6-420B-B00D-E2DDE5A426A7",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9333333333333333,
+          "green": 0.9333333333333333,
+          "red": 0.9333333333333333
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}
