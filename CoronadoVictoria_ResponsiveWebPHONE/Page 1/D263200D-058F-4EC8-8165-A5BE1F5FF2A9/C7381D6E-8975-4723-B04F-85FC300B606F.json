@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C7381D6E-8975-4723-B04F-85FC300B606F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1C960D55-59B5-4E54-98EC-7CC95BC49F81",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "90D80085-07FA-4521-BC5B-60C18AE3CC39",
+    "height": 88,
+    "width": 103,
+    "x": 186,
+    "y": 1388
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/OverlayText Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8E98AA35-115F-44F7-BD45-2EB267143CEA",
+      "overrideName": "B23A6D02-7B0D-463C-97E6-C0DF2BDCFFCE_stringValue",
+      "value": "CONTACT US"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E7C50279-AD27-41E1-AEE7-CA9544E9B02D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5BB064C7-7355-4C5F-9D4C-E473C1874046",
+  "verticalSpacing": 0
+}

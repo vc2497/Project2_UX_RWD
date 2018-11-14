@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "627F8B77-F461-412F-B20E-EA92C9333EC5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "871F82A2-32B1-4E01-A130-981F2DBE5140",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "79914114-4CA4-4838-883A-4A5A2AF1B2B4",
+    "height": 35,
+    "width": 99,
+    "x": 175,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/NavButton Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5735BD9F-BBE6-42A6-84C0-C6BE64E11FB1",
+      "overrideName": "15669745-D72D-41E2-ACA9-E0C7ACB6769C_stringValue",
+      "value": "COMMUNITY"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "02554BFF-53DC-4A11-8EE4-35B69D7281A3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "13231411-2A42-4721-B153-8B6D777456DC",
+  "verticalSpacing": 0
+}

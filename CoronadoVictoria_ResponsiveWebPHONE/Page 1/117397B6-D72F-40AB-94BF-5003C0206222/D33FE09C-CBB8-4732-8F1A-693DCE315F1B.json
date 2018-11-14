@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D33FE09C-CBB8-4732-8F1A-693DCE315F1B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9A1D98CB-2E2B-4FE9-B17F-5C8F04A35F77",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C3E49802-0B88-4B6B-BAEE-65B79537B4AC",
+    "height": 45,
+    "width": 329,
+    "x": -3,
+    "y": 669
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/DegreeButton Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B7D1C5AA-4C1A-4AF5-A4C7-9133C9D7DF05",
+      "overrideName": "68FC11CF-EEDE-4F18-A3B8-3539D54BD64B_stringValue",
+      "value": "VCD Minor"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BED9249B-A20D-4CEC-92E1-EC57CD5A3CBD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D1FE3C64-077B-4EE9-AF38-D652D4057443",
+  "verticalSpacing": 0
+}

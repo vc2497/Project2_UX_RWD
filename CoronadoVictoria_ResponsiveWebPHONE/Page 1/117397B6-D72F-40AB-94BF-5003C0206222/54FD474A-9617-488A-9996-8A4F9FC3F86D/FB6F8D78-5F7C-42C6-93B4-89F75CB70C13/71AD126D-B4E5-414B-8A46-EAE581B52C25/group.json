@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "71AD126D-B4E5-414B-8A46-EAE581B52C25",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3F27777B-8752-46B1-B8D5-1CEEE28E20F0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E4579A9B-B863-429A-91C9-2F9929F3686F",
+    "height": 7,
+    "width": 55,
+    "x": 0,
+    "y": 21.27631578947364
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "997F1289-15EB-43DC-AD5B-FFE25BAA19FB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F115BCBC-7D76-4D7F-9CC6-CA62818E2354"
+    },
+    {
+      "class": "shapePath",
+      "id": "81D9BE6A-47BA-4983-8906-F43D1DFDB9D9"
+    },
+    {
+      "class": "shapePath",
+      "id": "A7C1A9AD-79C3-49D8-874F-4E3F062B447E"
+    },
+    {
+      "class": "shapePath",
+      "id": "731EBDF7-9A37-4ECE-B4AC-079F7A22D179"
+    },
+    {
+      "class": "shapePath",
+      "id": "B24717A6-A0B1-4E99-A1B6-248C75BA97BC"
+    },
+    {
+      "class": "shapePath",
+      "id": "A43AF968-FD6C-4296-949C-15B2A3244EE6"
+    },
+    {
+      "class": "shapePath",
+      "id": "F082271B-2F53-4D48-883D-FE3A0699FE9F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EC4D9E18-617D-429A-A2FC-B06F11C2BFED"
+    },
+    {
+      "class": "shapePath",
+      "id": "E7A1078E-3448-4CAE-887A-BD8203037038"
+    }
+  ],
+  "name": "washington",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "88CBAF51-BDD5-414A-BE42-E3091FC70CB5",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

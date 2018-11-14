@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "05369838-A103-4C06-BE3E-26FBE2D8C8C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C32F86B3-A2E8-43CA-8783-C3E11524A623",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "31515273-0F76-4144-911E-9527593858B6",
+    "height": 6,
+    "width": 52,
+    "x": 57.24041811846696,
+    "y": 21.71052631578948
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A869E7CC-8DC9-4389-947C-06ECB7319612"
+    },
+    {
+      "class": "shapePath",
+      "id": "5BF0EC8C-D1AF-4914-9939-DDA1317AA561"
+    },
+    {
+      "class": "shapePath",
+      "id": "4EFDECDC-C290-4F0E-AC60-9788B787D2D5"
+    },
+    {
+      "class": "shapePath",
+      "id": "957F1FB4-C4C2-4902-81E4-6622252A7672"
+    },
+    {
+      "class": "shapePath",
+      "id": "20C2878F-46E0-4807-B781-5DF63063EE80"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B95BE280-B836-48D5-B744-C976CD3E6FA6"
+    },
+    {
+      "class": "shapePath",
+      "id": "1744CB5A-3746-42E2-AE99-29D5968EF232"
+    },
+    {
+      "class": "shapePath",
+      "id": "D1E9BC82-334C-4294-9737-8F8FCDE5E9F1"
+    },
+    {
+      "class": "shapePath",
+      "id": "5908B0FB-D109-4BCF-BFF5-F8F0CBBF9944"
+    },
+    {
+      "class": "shapePath",
+      "id": "7C5691DA-B265-41AF-BF05-F164A24BB947"
+    }
+  ],
+  "name": "university",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F2DD3DCD-B220-47B8-9185-F3D1D82B8253",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

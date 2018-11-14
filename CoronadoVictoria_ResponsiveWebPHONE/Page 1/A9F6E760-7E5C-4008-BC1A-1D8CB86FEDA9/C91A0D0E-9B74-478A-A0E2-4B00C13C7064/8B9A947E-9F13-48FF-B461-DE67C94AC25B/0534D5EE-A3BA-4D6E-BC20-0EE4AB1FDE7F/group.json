@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0534D5EE-A3BA-4D6E-BC20-0EE4AB1FDE7F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3B2FB0F0-F692-430E-9409-35EA3ED8CEAA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2AD5150F-DAF5-4E98-8ABF-259A5089D5DC",
+    "height": 6,
+    "width": 52,
+    "x": 57.24041811846696,
+    "y": 21.71052631578948
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "B072EE8F-3571-4862-B462-D2292ADEEE62"
+    },
+    {
+      "class": "shapePath",
+      "id": "4A3C73AB-D96F-4383-A41C-92F4B1A8D29C"
+    },
+    {
+      "class": "shapePath",
+      "id": "598E77BF-5908-452C-AF72-740C7AB2718A"
+    },
+    {
+      "class": "shapePath",
+      "id": "E4D1087D-C213-4F62-AACC-692DF56D583D"
+    },
+    {
+      "class": "shapePath",
+      "id": "23FB16BE-BEF8-46EB-B9A6-591F128DE7B4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9D946460-E54A-47C6-8A5D-51C0DC9BF600"
+    },
+    {
+      "class": "shapePath",
+      "id": "172A49A2-5839-41B8-A833-618E4E88391F"
+    },
+    {
+      "class": "shapePath",
+      "id": "87598717-584E-4AF6-94D6-9C5F60EB3FF4"
+    },
+    {
+      "class": "shapePath",
+      "id": "8C877CC1-DE84-4038-890F-B2561EFFF68A"
+    },
+    {
+      "class": "shapePath",
+      "id": "5E8CC875-090B-4216-861A-0F46EAF3B0E1"
+    }
+  ],
+  "name": "university",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D1318C88-E004-439D-9EFE-49E53A275894",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

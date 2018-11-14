@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6CA92F11-B324-4677-A2C3-0928963CAA1F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5BD95E54-B8DA-4A81-901E-D5B6DD372F45",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "190DF6C7-AE08-40DF-92D7-27194BAF8EA2",
+    "height": 6,
+    "width": 52,
+    "x": 57.24041811846696,
+    "y": 21.71052631578948
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "2E0D5C55-6D60-455D-8642-7E95ACC05EC9"
+    },
+    {
+      "class": "shapePath",
+      "id": "0E7667F2-1949-4718-965D-5A1B78823D5F"
+    },
+    {
+      "class": "shapePath",
+      "id": "18E1B7D7-C565-4F12-BBFF-F3ECF16E4EFC"
+    },
+    {
+      "class": "shapePath",
+      "id": "C72C6C1B-1E8E-4B7C-A124-4BB350C2A5AC"
+    },
+    {
+      "class": "shapePath",
+      "id": "9800F210-4C25-4CF4-A47A-08003DF109DD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "76D8CF0D-86AB-44B6-97AF-DA98E4A31272"
+    },
+    {
+      "class": "shapePath",
+      "id": "40C4CC67-9CE7-4433-A054-F98A7036B3F4"
+    },
+    {
+      "class": "shapePath",
+      "id": "AB835B61-FD7E-433E-AC25-07E2369A1F71"
+    },
+    {
+      "class": "shapePath",
+      "id": "891E6190-2190-4E67-B90D-651AFA511961"
+    },
+    {
+      "class": "shapePath",
+      "id": "7301BBBB-2A59-42EB-94EF-A0093E777416"
+    }
+  ],
+  "name": "university",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8BE64C3E-2892-4E55-B177-3F355808BE33",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

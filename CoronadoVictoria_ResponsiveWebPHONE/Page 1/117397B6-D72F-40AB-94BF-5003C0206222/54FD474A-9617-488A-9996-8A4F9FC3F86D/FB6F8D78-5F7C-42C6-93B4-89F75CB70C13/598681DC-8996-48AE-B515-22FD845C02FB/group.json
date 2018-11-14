@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "598681DC-8996-48AE-B515-22FD845C02FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "068BC384-674D-4705-BBD2-D1DD3451FE61",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0594EE1D-88F5-4FD8-AC52-70CD62D8FBEC",
+    "height": 6,
+    "width": 52,
+    "x": 57.24041811846696,
+    "y": 21.71052631578948
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "816BADA3-27ED-4198-AE3F-3A2453A3FFE2"
+    },
+    {
+      "class": "shapePath",
+      "id": "86167329-D261-465F-930C-8E3FF3F43D0A"
+    },
+    {
+      "class": "shapePath",
+      "id": "A2C84F80-C56D-41EF-AF0D-3CAD4D35BF96"
+    },
+    {
+      "class": "shapePath",
+      "id": "BF308BDF-36F1-4795-87AC-5BB153587314"
+    },
+    {
+      "class": "shapePath",
+      "id": "2F1852D3-0E39-4718-8327-D30E5179F17E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9A48A814-3C7C-4E5A-BE2E-7968488EFD98"
+    },
+    {
+      "class": "shapePath",
+      "id": "093EC8F6-744F-4EDD-934D-75A6E70AD4A9"
+    },
+    {
+      "class": "shapePath",
+      "id": "435E56AA-0336-41E3-9FC7-721C452532DD"
+    },
+    {
+      "class": "shapePath",
+      "id": "91908005-8779-49B7-A564-B0C2EA7CD425"
+    },
+    {
+      "class": "shapePath",
+      "id": "1D23F152-74E3-4396-875B-EC5BD8707EA0"
+    }
+  ],
+  "name": "university",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "48FB1652-6764-4824-AC03-9857D6C59C7B",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
